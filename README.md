@@ -43,7 +43,7 @@ In config.py set the values of
 In  bot.py replace all occurences of *pending* with "Your twitter Handle"
 
 
- > run stream_movie_plot.py
+ > run bot.py
 
 #Possible Improvements:
 
