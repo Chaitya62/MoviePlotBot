@@ -2,6 +2,12 @@
 
   MoviePlotBot is a twitter bot that lets you search the plot of any movie just tag *Pending* in your tweet by the movie title and you will get an instant reply from MoviePlotBot.
   
+#What does it does that?
+
+  It Basically uses two APIs 
+    1. Twitter API
+    2. OmDB API
+
 
 #How to run this bot?
 
@@ -37,6 +43,11 @@ In  bot.py replace all occurences of *pending* with "Your twitter Handle"
 
 
  > run stream_movie_plot.py
+
+#Possible Improvements:
+
+  1. It can return more things about the movie
+  2. Imporve Extract_movie_title() function
 
 #Lisense
 
