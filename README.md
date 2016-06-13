@@ -2,12 +2,12 @@
 
   MoviePlotBot is a twitter bot that lets you search the plot of any movie just tag *Pending* in your tweet by the movie title and you will get an instant reply from MoviePlotBot.
   
-#What does it do that?
+#How does it do that?
 
-  It Basically uses two APIs 
+  It basically uses two APIs 
   
     1. Twitter API
-    2. OmDB API
+    2. OMDb API
 
 
 #How to run this bot?
