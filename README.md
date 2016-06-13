@@ -12,7 +12,9 @@
       
 ###Packages
     1. json (version 2.0.9)
-    2. tweepy for more information click [here](http://docs.tweepy.org/en/v3.5.0/) 
+    2. tweepy
+    3. 
+for  more information on tweepy click [here](http://docs.tweepy.org/en/v3.5.0/) 
     
 ####Twitter App
   * Go [here](https://dev.twitter.com/) and register your twitter app
