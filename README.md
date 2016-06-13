@@ -5,6 +5,7 @@
 #What does it does that?
 
   It Basically uses two APIs 
+  
     1. Twitter API
     2. OmDB API
 
