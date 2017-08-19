@@ -7,7 +7,7 @@
   It basically uses two APIs 
   
     1. Twitter API
-    2. OMDb API
+    2. OMDb API (No longer supported)
 
 
 # How to run this bot?
@@ -49,6 +49,8 @@ In  bot.py replace all occurences of *pending* with "Your twitter Handle"
 
   1. It can return more things about the movie
   2. Improve Extract_movie_title() function
+  3. The OMDB API no longer supports free account find a alternative	
+
 
 # Lisense
 
